@@ -121,7 +121,7 @@ If you think of a Clever feature, add it here
 1. Fork the repository  
 
    ```js
-   git clone https://github.com/nianod/Group-connect.git
+   git clone https://github.com/mwakidenis/NetCollaborate.git
 
    // Create your feature branch
 
