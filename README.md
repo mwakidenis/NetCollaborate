@@ -1,5 +1,5 @@
 # 📚 Group Connect
-
+ 
 > **Find study partners. Form groups. Learn together.**  
 > Group Connect is a campus-based platform that helps students connect with peers who share similar study interests, organize study sessions, and collaborate effectively.
 
