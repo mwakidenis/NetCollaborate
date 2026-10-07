@@ -4,7 +4,7 @@
 > Group Connect is a campus-based platform that helps students connect with peers who share similar study interests, organize study sessions, and collaborate effectively.
 
 ---
-
+ 
 ## 🧾 Description
 
 **Group Connect** is a collaborative web platform designed to help students find study partners, form small learning groups, and organize study sessions based on shared subjects or interests. It promotes peer-to-peer learning, teamwork, and consistent study habits across campuses.
